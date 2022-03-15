@@ -1,0 +1,767 @@
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe.config
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.fLogin.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fMain.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac1.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac2.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.Properties.Resources.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.GenerateResource.cache
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CoreCompileInputs.cache
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac3.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CopyComplete
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox1.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox2.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fRegister.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fHome.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCaNhan.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fQuanLyAdmin.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fLoginForAdmin.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fThayDoiAvatar.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe.licenses
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Admin.fNhanSu.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Design.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fSETTING.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fEditAccount.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fNhanSu.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fAddAccount.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fFullThongTinCaNhan_User.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Images.v19.2.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fThemThongTinCaNhan_Admin.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fCapNhatThongTinCaNhan_User.resources
+D:\DoAnNET\Beta4.1.2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csprojAssemblyReference.cache
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe.config
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Design.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Images.v19.2.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Admin.fNhanSu.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCaNhan.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fHome.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fQuanLyAdmin.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fNhanSu.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.fLogin.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fLoginForAdmin.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fRegister.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fMain.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fSETTING.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fThayDoiAvatar.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fAddAccount.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fCapNhatThongTinCaNhan_User.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fEditAccount.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fFullThongTinCaNhan_User.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fThemThongTinCaNhan_Admin.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox1.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox2.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac1.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac2.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac3.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.Properties.Resources.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.GenerateResource.cache
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe.licenses
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CoreCompileInputs.cache
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CopyComplete
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csprojAssemblyReference.cache
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.dll
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.pdb
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Thong_Tin_Phan_Mem.fThongTinPhanMem.resources
+D:\DoAnNET\Beta 4.2.3\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCongViec.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe.config
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Design.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Images.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.pdb
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csprojAssemblyReference.cache
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Admin.fNhanSu.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCaNhan.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCongViec.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fHome.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fQuanLyAdmin.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fNhanSu.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.fLogin.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fLoginForAdmin.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fRegister.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fMain.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fSETTING.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fThayDoiAvatar.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Thong_Tin_Phan_Mem.fThongTinPhanMem.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fAddAccount.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fCapNhatThongTinCaNhan_User.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fEditAccount.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fFullThongTinCaNhan_User.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fThemThongTinCaNhan_Admin.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox1.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox2.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac1.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac2.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.TestChoi.formRac3.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.Properties.Resources.resources
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.GenerateResource.cache
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe.licenses
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CoreCompileInputs.cache
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CopyComplete
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta 4.2.3 v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fChat.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe.config
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Design.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Images.v19.2.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.pdb
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Admin.fNhanSu.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCaNhan.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fChat.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCongViec.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fHome.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fQuanLyAdmin.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fNhanSu.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.fLogin.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fLoginForAdmin.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fMain.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fSETTING.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fThayDoiAvatar.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Thong_Tin_Phan_Mem.fThongTinPhanMem.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fAddAccount.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fCapNhatThongTinCaNhan_User.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fEditAccount.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fFullThongTinCaNhan_User.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fThemThongTinCaNhan_Admin.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox1.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox2.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.Properties.Resources.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.GenerateResource.cache
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe.licenses
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CoreCompileInputs.cache
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CopyComplete
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\LBTen.dll
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\LBTen.pdb
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fBaoCao.resources
+D:\DoAnNET\Beta 4.2.3 Cutter\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csprojAssemblyReference.cache
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe.config
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\LBTen.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Design.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Images.v19.2.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\LBTen.pdb
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ThuVienInfo.pdb
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fBaoCao.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Admin.fNhanSu.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCaNhan.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fChat.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fCongViec.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fHome.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fQuanLyAdmin.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_CongViec.fNhanSu.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.fLogin.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Login.fLoginForAdmin.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fMain.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fSETTING.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Main.fThayDoiAvatar.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_Thong_Tin_Phan_Mem.fThongTinPhanMem.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fAddAccount.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fCapNhatThongTinCaNhan_User.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.fEditAccount.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fFullThongTinCaNhan_User.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.Form_UserControl.fThemThongTinCaNhan_Admin.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox1.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.GUI.My_MessageBox.fMessageBox2.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.Properties.Resources.resources
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.GenerateResource.cache
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe.licenses
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CoreCompileInputs.cache
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csproj.CopyComplete
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.exe
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.pdb
+D:\DoAnNET\Deta 4.2.3 ShortCut v2\DoAnNhom7_ChuDe9\DoAnNhom7_ChuDe9\obj\Debug\DoAnNhom7_ChuDe9.csprojAssemblyReference.cache
